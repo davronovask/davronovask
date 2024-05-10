@@ -1,3 +1,3 @@
-SECRET_TOKEN = "some-secret-value"
+SECRET_TOKEN = "secret_musi"
 
 is_activate = True
